@@ -1,170 +1,22 @@
 # VeerapongTang.github.io
-**
- * Author: Hong Wang
- * Github: https://github.com/H0NGWANG
-**/
-body {
-    font-family: 'Noto Sans', sans-serif;
-    padding: 40px 0px;
-    color: #3d3d3f;
-}
+* PROFILE
 
-main {
-    background-color: #fff;
-    border: 1px solid #ddd;
-    box-shadow: 0 0 25px 0 rgba(0, 0, 0, 0.1);
-}
+profile__description
+I am a person, responsible with their work during working hours. Finish various technical and higher studies at large universities. I have several years of experience and achievements in the labor field.
 
-a, a:hover {
-    color: #64b2b6;
-}
+* EXPERIENCE
 
-h2 {
-    font-size: 20px;
-    font-weight: 500;
-    color: #64b2b6;
-}
+experience__description
+Work in this company dedicating the best responsibility in the area that corresponds, delivering the best results for the company and improving productivity.
 
-.left-side {
-    padding: 25px;
-}
+* CERTIFICATE
 
-.profile {
-    text-align: center;
-    padding-bottom: 15px;
-}
+certificate__title
+Certified for compliance in the work area (2012)
 
-.profile h1 {
-    padding-top: 20px;
-    text-transform: uppercase;
-}
+Certificate of attendance on computer technology.
 
-.picture {
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+Achievement medal for productivity excellence during the year (2019)
 
-.picture img {
-    max-width: 100%;
-}
-
-.btn-cv {
-    padding: 10px;
-    color: white;
-    background-color: #71c9ce;
-    width: 100%;
-    border-radius: 0px;
-}
-
-.btn-cv:hover {
-    color: #fff;
-    background-color: #64b2b6;
-}
-
-.btn:focus, .btn:active {
-    outline: none !important;
-    box-shadow: none;
-    color: white;
-}
-
-.social {
-    padding: 0;
-    list-style-type: none;
-}
-
-.social i {
-    width: 20px;
-}
-
-.right-side {
-    padding: 0px;
-}
-
-section {
-    padding: 40px;
-    border-bottom: 1px solid #ddd;
-}
-
-.section-title {
-    text-transform: uppercase;
-    margin-left: -5px;
-}
-
-.upper-row {
-    position: relative;
-}
-
-.company, .school-name{
-    color: #71c9ce;
-    font-size: 15px;
-    font-weight: 500;
-    margin-bottom: 0px;
-}
-
-.time {
-    font-size: 15px;
-    font-weight: 500;
-    color: #71c9ce;
-}
-
-.job-title, .school-title {
-    font-size: 14px;
-    font-style: italic;
-    margin-bottom: 5px;
-}
-
-.job li, section {
-    font-size: 15px;
-}
-
-.honors h3{
-    color: #71c9ce;
-    font-size: 15px;
-    font-weight: 500;
-    margin-bottom: 0px;
-}
-
-.contact-form {
-    padding-top: 5px;
-}
-
-.form-group input, .form-group textarea {
-    border-radius: 0px;
-    border-color: #ddd;
-}
-
-.form-control:focus {
-    box-shadow: none;
-    border-radius: 0px;
-    border-color: #ddd;
-}
-
-footer {
-    text-align: center;
-    padding: 30px;
-}
-
-@media (max-width: 991.98px) {
-    .right-side {
-        border-top: 1px solid #ddd;
-    }
-}
-
-@media (min-width: 992px) {
-    .left-side {
-        border-right: 1px solid #ddd;
-    }
-
-    .time {
-        position: absolute;
-        right: 0;
-        top: 0;
-    }
-
-    header {
-        /* fixed sidebar */
-        position: -webkit-sticky;
-        position: sticky;
-        top: 25px;
-    }
-}
+certificate__description
+For meeting the expectations of leading the team to work the specified tasks in the labor field.
